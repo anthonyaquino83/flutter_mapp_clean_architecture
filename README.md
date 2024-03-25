@@ -1,7 +1,7 @@
 # flutter_mapp_clean_architecture
 
-Flutter Mapp Clean Architecture Project
+This is the finished Flutter Mapp Clean Architecture Project 
 
-## Getting Started
+## [Video Link] (https://www.youtube.com/watch?v=SmJB8cy8emU) 
 
-Navigate to -> Lib/core/template/info_feature.txt
+ 
